@@ -1,4 +1,6 @@
-
+### PLEASE READ!!!!
+## Note from Will: There is a chance that the map implemented to show the location of the supermarkets won't show up on github or JN. This is because the file path is very specific to my mac. I couldn't get it to work any other way. If this is the case copy and past the url of our notebook "finalgroupset" into this site: https://nbviewer.org/
+## Thank you!
 
 ## Team name
 ### Wiqi
