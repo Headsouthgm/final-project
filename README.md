@@ -6,7 +6,7 @@
 ### Wiqi
 ## Team members
 ### Will Huynh (hth8@pitt.edu) and Ziqi Yang (ziy62@pitt.edu)
-### Will Huynh notebook: finaljawn & Ziqi Yang notebook: 
+### Will Huynh notebook: finaljawn & Ziqi Yang notebook: final_ziqi-Yang 
 ### Group 35
 ## Link to the dataset (We have them in the folder as well) 
 ### https://data.wprdc.org/dataset/police-incident-blotter/resource/1797ead8-8262-41cc-9099-cbc8a161924b (crime)
